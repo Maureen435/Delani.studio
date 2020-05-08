@@ -7,7 +7,6 @@
 }
   }
   .landingpage {
-      background-image: url("https://bit.ly/3dpSSqW") ;
       display: block;
       margin-left: auto;
       margin-right: auto;
@@ -39,4 +38,9 @@
       text-align: center;
       font-family: sans-serif;
   }
-  
+
+.image {
+    height:400px;
+    width:600px;
+    text-align: center;
+}
