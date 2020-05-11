@@ -22,7 +22,7 @@ INPUT: "Fill all forms and Submit" OUTPUT: "Thanks for being our client,your mes
 
 ### Setup/Installation Requirements
 Open terminal (CTRL ALT T)
-git clone https:https://github.com/chepkiruibetty/delani-studio
+git clone https:https://github.com/Maureen435/Delani.studio.git delani-studio
 cd delani-studio
 use atom . or code . to open the clone repo on Atom or VS-code respectively
 Known Bugs
