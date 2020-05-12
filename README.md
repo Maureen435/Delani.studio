@@ -8,8 +8,6 @@ This application deals with design,product management and development
 ### Behaviour Driven Development(BDD)
 #### Landing Page
 
-Mouse-Icon: "Smooth Scrolls to the next page. Mouse icon has a bouncing effect." What We Do Section
-
 Icons: "Click on the icons to display their descriptions." Descriptions: "Click on the descriptions again to hide them and to display the icons."
 
 #### Portfolio Section
@@ -18,7 +16,7 @@ Images: "Hover on each image to display their respective descriptions."
 
 #### Contact Us Section
 
-INPUT: "Fill all forms and Submit" OUTPUT: "Thanks for being our client,your message has been received"
+INPUT: "Fill all forms and Submit" OUTPUT: "Your message has been received"
 
 ### Setup/Installation Requirements
 Open terminal (CTRL ALT T)
