@@ -18,7 +18,7 @@ $(document).ready(function(){
    
    $(document).ready(function(){
    $("form").submit(function(){
-   alert("Thanks  for being our client ,your message has been received");
+   alert("Your message has been received");
    });
    });
    
