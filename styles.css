@@ -91,3 +91,19 @@
 .imagehover:hover {
 	opacity: 0.3;
 }
+.we-do {
+	text-align: center;
+	padding-top: 2%;
+}
+
+#we {
+	margin-left: 0%;
+}
+.myport {
+	text-align: center !important;
+}
+
+.whatwedo {
+	display: flex;
+	justify-content: space-around;
+}
